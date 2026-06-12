@@ -1,5 +1,5 @@
 ---
-title: "YouTubeの「参入チャンス」をスコア化するリサーチツールを作った（React + Cloudflare Workers）"
+title: "YouTubeの「参入チャンス」をスコア化するリサーチツールを作った"
 emoji: "📊"
 type: "tech"
 topics: ["react", "typescript", "cloudflareworkers", "youtube", "個人開発"]
